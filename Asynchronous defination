@@ -1,0 +1,9 @@
+Thread: It is a "single-threaded by default used to run a script in the web application,
+perform layout and garbage collection".
+   Being single-threaded is to execute only a single set of instructions at any time in the process.
+
+
+ Concurrency: Concurrency means that a "Program is able to run more than one task at a time.
+     During concurrency, different tasks with differing goals of the program can be performed at the same time  
+
+Parallelis:while in parallelism, different parts of the program execute one task.
